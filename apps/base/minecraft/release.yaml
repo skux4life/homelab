@@ -54,7 +54,7 @@ spec:
       MODRINTH_MODPACK: "https://modrinth.com/modpack/create_plus/version/6.0.0-alpha-f"
       MODRINTH_FORCE_SYNCHRONIZE: "true"
       MODRINTH_EXCLUDE_FILES: "statuseffectbars"
-      MODRINTH_PROJECTS: "neoforge:create-easy-structures,neoforge:create-diesel-generators,neoforge:create-stuff-additions,neoforge:create-stuff-n-additions-x-sable-aeronautics-compat,neoforge:create-stuff-and-addition-tank-fix"
+      MODRINTH_PROJECTS: "neoforge:create-easy-structures,neoforge:create-diesel-generators,neoforge:create-stuff-additions,neoforge:create-stuff-n-additions-x-sable-aeronautics-compat:1.0.3,neoforge:create-stuff-and-addition-tank-fix"
 
     persistence:
       dataDir:
